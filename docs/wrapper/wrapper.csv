@@ -1,0 +1,4 @@
+Répertoire / Bibliothèque,Langage,URL du Répertoire,Fonctionnalité Clé,Verdict pour la Recherche par Technologie + Pays
+claymation/python-builtwith,Python,github.com/claymation/python-builtwith,Wrapper pour l'API Domain afin de consulter la pile technologique d'un domaine unique et connu.,Inadapté. Manque de prise en charge de l'API Lists requise pour la découverte.
+secnextechnologies/WTSAnalyzer,Python,github.com/secnextechnologies/WTSAnalyzer,Un outil en ligne de commande pour analyser la technologie et la sécurité d'un domaine unique et connu.,"Inadapté. Un consommateur de l'API Domain, pas un générateur de listes."
+zcaceres/builtwith-api,Node.js,github.com/zcaceres/builtwith-api,Wrapper avec une fonction lists() pour l'API Lists.,"Potentiellement fonctionnel mais risqué. Ne documente pas officiellement le paramètre country, ce qui oblige à se fier à un comportement non documenté."
